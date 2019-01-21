@@ -4,8 +4,8 @@
 	1. About using cloud services
 1. Machine Learning on AWS
 	1. AWS Machine Leanring Concepts
-		![ML](images/ML.png)
-		![Types](images/types.png)
+		![ML](images/ML.PNG)
+		![Types](images/types.PNG)
 	1. Business scenarios for machine learning
 	1. Which algorithm should I use?
 	1. AWS AI servers vs platforms
