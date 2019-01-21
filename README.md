@@ -35,5 +35,19 @@
 	1. Predict using Translate and Transcribe
 		![ML Jobs](images/ML_job.PNG)
 1. Machine learning Platforms
+	1. Understanding ML Platforms
+		![platform service](images/platform_service.PNG)
+	1. Understanding and using AWS ML
+	1. Understanding SageMaker
+		![sagemaker steps](images/sagemaker_steps.PNG)
+		![sagemaker concepts](images/sagemaker_concepts.PNG)
+		![sagemaker image](images/sagemaker_image.PNG)
+	1. Create jupyter notebook with sagemaker
+	1. Get data with SageMaker notebook
+	1. Train model with sagemaker job
+	1. Deploy and host model with sagemaker model
+	1. Use model from sagemaker endpoint
+	1. Selecting algotrithm for model training
+	1. Advanced use of sagemaker
 1. Machine learning Virtual servers
 1. Conclusion ...
