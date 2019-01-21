@@ -49,6 +49,12 @@
 	1. Deploy and host model with sagemaker model
 	1. Use model from sagemaker endpoint
 	1. Selecting algotrithm for model training
+		![algorithms](images/algorithm.PNG)
+		![algorithms](images/algorithm2.PNG)
+		![algorithms](images/algorithm_discrete.PNG)
+		![algorithms](images/algorithm_quantitative.PNG)
+		![algorithms](images/algorithm_text.PNG)
+		![algorithms](images/algorithm_speciality.PNG)
 	1. Advanced use of sagemaker
 1. Machine learning Virtual servers
 1. Conclusion ...
