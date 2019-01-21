@@ -16,8 +16,24 @@
 	1. AWS AI servers vs platforms
 		![amazon](images/amazon.PNG)
 	1. AWS AI platforms vs frameworks
+		![analytics](images/analytics.PNG)
 	1. A classifier in action: Amazon Macie
 1. Machine Learning API services
+	1. Setup for AWS machine learning APIs
+		![APIs](images/API.PNG)
+		![working API](images/working.PNG)
+	1. Predict using AWS Comprehend for NLP
+		![Call Center](images/call_center.PNG)
+	1. Predict using AWS Polly test-to-speech
+		![talking IOT](images/talking_IOT.PNG)
+	1. Predict using AWS Lex for chatbots
+		![patient booking](images/patient_booking.PNG)
+	1. Predict using AWS Rekognition for images
+		![real estate](images/real_estate.PNG)
+	1. Predict using AWS Rekognition for videos
+		![celebrity](images/celbrity.PNG)
+	1. Predict using Translate and Transcribe
+		![ML Jobs](images/ML_job.PNG)
 1. Machine learning Platforms
 1. Machine learning Virtual servers
 1. Conclusion ...
