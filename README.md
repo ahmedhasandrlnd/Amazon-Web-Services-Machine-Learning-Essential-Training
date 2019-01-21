@@ -31,7 +31,7 @@
 	1. Predict using AWS Rekognition for images
 		![real estate](images/real_estate.PNG)
 	1. Predict using AWS Rekognition for videos
-		![celebrity](images/celbrity.PNG)
+		![celebrity](images/celebrity.PNG)
 	1. Predict using Translate and Transcribe
 		![ML Jobs](images/ML_job.PNG)
 1. Machine learning Platforms
