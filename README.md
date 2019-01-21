@@ -43,6 +43,7 @@
 		![sagemaker concepts](images/sagemaker_concepts.PNG)
 		![sagemaker image](images/sagemaker_image.PNG)
 	1. Create jupyter notebook with sagemaker
+		![notebook](images/notebook.PNG)
 	1. Get data with SageMaker notebook
 	1. Train model with sagemaker job
 	1. Deploy and host model with sagemaker model
